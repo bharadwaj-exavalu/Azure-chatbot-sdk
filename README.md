@@ -37,7 +37,7 @@ A FastAPI-based chatbot API that integrates Azure OpenAI, Azure Cognitive Search
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
 
-
+```
 ---
 
 ## ⚙️ Environment Variables (`.env`)
@@ -55,4 +55,4 @@ SEARCH_ENDPOINT=Endpoint
 AZURE_OPENAI_API_KEY=Your azure open-ai key
 SEARCH_KEY=Your search key
 EMBEDDING_ENDPOINT=Embedding model endpoint
-INDEX_NAME=Your index name
+INDEX_NAME=Your index name  ```
