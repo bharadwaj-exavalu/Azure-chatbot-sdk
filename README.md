@@ -26,19 +26,17 @@ A FastAPI-based chatbot API that integrates Azure OpenAI, Azure Cognitive Search
 
 ---
 
-## 🧩 Directory Structure
+## 📦 Directory Structure
 
+```text
 .
-├── main.py # FastAPI app
+├── main.py               # FastAPI app
 ├── utils/
-│ └── llm_invoke.py # Azure OpenAI + Cognitive Search logic
-├── .env # Environment variables
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+│   └── llm_invoke.py     # Azure OpenAI + Cognitive Search logic
+├── .env                  # Environment variables
+├── requirements.txt      # Python dependencies
+└── README.md             # Project documentation
 
-yaml
-Copy
-Edit
 
 ---
 
